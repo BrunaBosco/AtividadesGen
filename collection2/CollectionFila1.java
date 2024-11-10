@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class CollectionFila {
+public class CollectionFila1 {
 
 	public static void main(String[] args) {
 		Queue<String> fila = new LinkedList<>();

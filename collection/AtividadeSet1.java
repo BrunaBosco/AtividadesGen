@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Set;
 
-public class AtividadeSet {
+public class AtividadeSet1 {
 
 	public static void main(String[] args) {
 		

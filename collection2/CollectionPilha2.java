@@ -3,7 +3,7 @@ package collection2;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class CollectionPilha {
+public class CollectionPilha2 {
 
 	public static void main(String[] args) {
 		Stack<String> pilha = new Stack<>();
@@ -65,4 +65,3 @@ public class CollectionPilha {
     }
 
 }
-

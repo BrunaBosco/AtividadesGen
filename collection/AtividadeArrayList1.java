@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class AtividadeArrayList {
+public class AtividadeArrayList1 {
 
 	public static void main(String[] args) {
 		ArrayList<String> cores = new ArrayList<>();
